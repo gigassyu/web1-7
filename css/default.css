@@ -30,3 +30,11 @@ footer{
   background-color: purple;
   clear: both;
 }
+#main{
+   background-color: white;
+  width: calc(100% - 200px);
+  min-width: 500px;
+  float: left;
+}
+  
+  
